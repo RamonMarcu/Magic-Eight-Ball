@@ -36,12 +36,12 @@ switch (randomNumber){
 
   console.log(eightBall);
 
-// if run, the console displays:
+// if run the code block, the result will be:
 
-Hello, Ramon
-The question of the day is:
-Will it snow tomorrow?
-(a random answer from the 8 options, such as: Ask Siri)
+// Hello, Ramon
+// The question of the day is:
+// Will it snow tomorrow?
+// [one of the 8 answers generated randomly by the variable let randomNumber = Math.floor(Math.random() * 8), such as: Ask Siri]
 
 
 
