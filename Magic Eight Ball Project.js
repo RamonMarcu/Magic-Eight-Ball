@@ -41,7 +41,7 @@ switch (randomNumber){
 // Hello, Ramon
 // The question of the day is:
 // Will it snow tomorrow?
-// [one of the 8 answers generated randomly by the variable let randomNumber = Math.floor(Math.random() * 8), such as: Ask Siri]
+// [one of the 8 answers generated randomly by the variable randomNumber such as 7 which is associated with: Ask Siri]
 
 
 
